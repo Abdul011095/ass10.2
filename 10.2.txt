@@ -1,0 +1,13 @@
+create databade custom
+
+*create database custom;
+
+
+create table
+ create table tem_details( date DATE,zipcode INT,temp INT);
+ 
+
+load the data into table
+
+
+load data local inpath '/home/acadgild/temp_data' into tablr tem_details;
